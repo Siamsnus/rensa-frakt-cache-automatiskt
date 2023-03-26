@@ -1,4 +1,4 @@
-# rensa-frakt-cache-automatiskt
+# WooCommerce Fraktpriser Cache Rensning
 Rensa frakt cache automatiskt, praktiskt om du har problem med utcheckning och behöver felsöka utan att visa meddelande i frontend.
 
 # WooCommerce Fraktpriser Cache Rensning
